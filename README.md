@@ -6,9 +6,10 @@ MathLib is a C++ program for mathematic computation. It supports computing absol
 Runduo(Melody) Ma
 ##  Installation
 
-### Requirement
-*Linux or Win 10
-*g++ 7.4.0 or above
+### Requirement  
+- Linux or Win 10
+- g++ 7.4.0 or above
 
 ## Improvement
-*The NumbertoString() should be improved. It's now a little bit redundant. 
+
+* The NumbertoString() should be improved. It's now a little bit redundant. 
