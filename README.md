@@ -10,5 +10,5 @@ Runduo(Melody) Ma
 *Linux or Win 10
 *g++ 7.4.0 or above
 
-##Improvement
+## Improvement
 *The NumbertoString() should be improved. It's now a little bit redundant. 
